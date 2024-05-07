@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michele
 - 👀 I’m interested in Data Science, Reading, Fitness, Science & Technology, Music, Medition, and my dog, Trixie
-- 🌱 I’m currently to become a professiional Data Scientist
+- 🌱 I’m a Data Scientist
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me michele.ru80@gmail.com
 
